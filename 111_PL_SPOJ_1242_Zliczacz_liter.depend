@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667469686 source:c:\users\jakub\documents\programowanie\c++\111_pl_spoj_1242_zliczacz_liter\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+
